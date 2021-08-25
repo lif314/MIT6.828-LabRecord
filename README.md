@@ -1,4 +1,4 @@
-# 项目说明
+# MIT 6.828 Lab Record
 
 - Lab Name：MIT 6.828 2018
 - lab link：https://pdos.csail.mit.edu/6.828/2018/schedule.html
