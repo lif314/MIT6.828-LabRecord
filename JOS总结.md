@@ -12,7 +12,7 @@
 
 **图解**：
 
-![Legacy_BIOS_boot_process](../../../../Download/Legacy_BIOS_boot_process.png)
+![Legacy_BIOS_boot_process](image/Legacy_BIOS_boot_process.png)
 
 ### power-on bootstrap procedure 
 
